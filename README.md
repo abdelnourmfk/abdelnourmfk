@@ -1,6 +1,8 @@
 💻 MOUFFOK Abdelnour:
 
-Étudiant en Cybersécurité • Développeur Full-Stack • Passionné par l’innovation
+• Étudiant en Cybersécurité 
+• Développeur Full-Stack 
+• Passionné par l’innovation
 
 🚀 À propos de moi:
 
@@ -9,42 +11,70 @@ Je conçois des applications sécurisées et performantes en utilisant Python, F
 
 🔐 Je m’intéresse aux:
 
-Tests d'intrusion (Pentesting)
-Sécurisation des APIs
-Authentification & gestion des rôles
-Analyse des vulnérabilités
-Sécurité des bases de données
+•Tests d'intrusion (Pentesting)
+
+•Sécurisation des APIs
+
+•Authentification & gestion des rôles
+
+•Analyse des vulnérabilités
+
+•Sécurité des bases de données
 
 🛠️ Compétences techniques:
 
 🔹 Backend
+
 Python (Flask / Django)
+
 Authentification (JWT, sessions)
+
 APIs REST
+
 PostgreSQL, MySQL
+
 psycopg2
+
 🔹 Frontend
+
 HTML5 / CSS3
+
 JavaScript
+
 Responsive Design
+
 🔹 Outils & Environnement
+
 Git / GitHub
+
 Linux
+
 VS Code
+
 Modélisation BD
+
 Sécurité Web (OWASP, bonnes pratiques)
 
 📌 Projets Principaux:
 
 🔵 LIO – Gestion des chercheurs universitaires
+
 Plateforme complète pour automatiser la gestion des chercheurs du Laboratoire Informatique d’Oran.
+
 ✔ Gestion des équipes, chercheurs, publications, projets
+
 ✔ Tableau de bord statistique
+
 ✔ Développé en Flask + PostgreSQL
+
 🟣 EasyLab – Plateforme intelligente pour laboratoires
+
 Projet start-up pour gérer tous les laboratoires régionaux/nationaux.
+
 ✔ Système de rôles avancé (Admin, Chercheur, Visiteur, Développeur)
+
 ✔ Architecture sécurisée
+
 ✔ Application scalable & moderne
 
 📊 Statistiques GitHub:
@@ -55,12 +85,16 @@ Projet start-up pour gérer tous les laboratoires régionaux/nationaux.
 🌐 Me contacter:
 
 📧 Abdelnourmfk@gmail.com
+
 📍 Oran, Algérie
+
 🔗 GitHub : github.com/abdelnourmfk
 
 🏆 Objectifs 2025:
 
-Améliorer mes compétences en cybersécurité (pentest & forensic)
-Développer EasyLab en version déployée
-Contribuer à des projets open-source
+• Améliorer mes compétences en cybersécurité (pentest & forensic)
+
+• Développer EasyLab en version déployée
+
+• Contribuer à des projets open-source
 Préparer une certification en sécurité (CEH, eJPT ou équivalent)
